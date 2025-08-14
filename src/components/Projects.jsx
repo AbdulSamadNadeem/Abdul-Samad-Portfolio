@@ -11,7 +11,7 @@ const projects = [
   {
     title: "Chat Web-App",
     description:
-      "A real-time chat application using React, Firebase Authentication, and Firestore. Features include user login, instant messaging, and responsive UI with Tailwind CSS.",
+      "A real-time chat application using React, Firebase Authentication, and Firestore. Features include user login, instant messaging, and responsive UI with Tailwind CSS.Vercel does not support Websockets thats why we can not see messages in realtime",
     image: "/Screenshot (21).png",
     link: "https://github.com/AbdulSamadNadeem/Chit-Shat",
   },
