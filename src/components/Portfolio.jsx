@@ -17,7 +17,7 @@ const DotIcon = () => (
 const coderData = {
   name: "Abdul Samad",
   role: "Full Stack Developer",
-  seniority: "Beginner-Level",
+  seniority: "Medium-Level",
   location: "Pakistan",
   skills: [
     "React",
