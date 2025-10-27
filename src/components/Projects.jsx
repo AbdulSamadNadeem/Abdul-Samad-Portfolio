@@ -16,12 +16,12 @@ const projects = [
     link: "https://github.com/AbdulSamadNadeem/Chit-Shat",
   },
   {
-  title: "SmartLead.ai",
-  description:
-    "A modern landing page built for SmartLead.ai — designed to showcase their AI-powered lead generation platform. Developed with React, featuring smooth animations, responsive design, and optimized performance for a clean, conversion-focused user experience.",
-  image: "/Screenshot (22).png",
-  link: "‎https://smart-lead-ai-third-version.vercel.app/",
-},
+    title: "SmartLead.ai",
+    description:
+      "A modern landing page built for SmartLead.ai — designed to showcase their AI-powered lead generation platform. Developed with React, featuring smooth animations, responsive design, and optimized performance for a clean, conversion-focused user experience.",
+    image: "/sml.png",
+    link: "https://smart-lead-ai-third-version.vercel.app/",
+  },
 
   {
     title: "ChitShat",
