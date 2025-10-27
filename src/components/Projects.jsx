@@ -16,12 +16,13 @@ const projects = [
     link: "https://github.com/AbdulSamadNadeem/Chit-Shat",
   },
   {
-    title: "E-commerce Store",
-    description:
-      "An online shopping platform with product listings, cart functionality, and user authentication. Built using React, Firebase for backend, and modern responsive design.",
-    image: "/Screenshot (22).png",
-    link: "https://github.com/AbdulSamadNadeem/e-commerceshopco",
-  },
+  title: "SmartLead.ai",
+  description:
+    "A modern landing page built for SmartLead.ai — designed to showcase their AI-powered lead generation platform. Developed with React, featuring smooth animations, responsive design, and optimized performance for a clean, conversion-focused user experience.",
+  image: "/Screenshot (22).png",
+  link: "‎https://smart-lead-ai-third-version.vercel.app/",
+},
+
   {
     title: "ChitShat",
     description:
